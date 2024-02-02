@@ -1,1 +1,1 @@
-Open the built.exe for the lanch telegargement 
+Open the built.exe for the launch telegargement 
